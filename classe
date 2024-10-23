@@ -1,10 +1,1 @@
-class Animal:
-
-  def __init__(self,nome,tipo,som):
-    self.nome = nome
-    self.tipo = tipo
-    self.som = som
-
-  animal1 = Animal('tico', 'gato', 'mia')
-  animal2 = Animal('bob', 'cão', 'late')
 
